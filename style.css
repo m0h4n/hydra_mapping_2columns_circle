@@ -19,9 +19,9 @@ body {
   /* Opcional: circular para todos */
 }
 
-/* #hydra-iframe1 iframe{
+#circle iframe{
    border-radius: 50%; 
-} */
+}
 /* opción para un solo iframe que queramos circular */
 
 
